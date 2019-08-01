@@ -1,0 +1,17 @@
+int main()
+{
+     int a,b,c=0;
+     float d=1234.50;
+     float arr[2]={0.1,10.10};
+     char array[8];
+     if(a==0)
+           b=1;
+     else
+           c=1;
+     c=a+1;
+     b=a*2;
+     d=c/3;
+     for(int i=0;i<2;++i)
+           arr[i]=c*i;
+     return 0;
+}
